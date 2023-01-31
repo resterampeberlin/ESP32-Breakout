@@ -823,7 +823,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x19") (at 170.815 94.615 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 2134cc59-8b8e-4366-a63c-00e5f3e8aac0)
     (property "Reference" "J102" (id 0) (at 177.165 92.075 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -923,7 +923,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x19") (at 110.49 94.615 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 741cd01e-3f0e-4438-a13c-72872bba2c60)
     (property "Reference" "J101" (id 0) (at 102.235 92.075 0))
     (property "Value" "Conn_01x19" (id 1) (at 102.235 94.615 0))
@@ -971,7 +971,7 @@
   )
 
   (symbol (lib_id "MCU_Module:ESP32-DEVKITC-32D") (at 140.335 94.615 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid d7debd12-f7b7-4fce-af13-ea37ff0fb5af)
     (property "Reference" "U101" (id 0) (at 140.335 63.5 0))
     (property "Value" "ESP32-DEVKITC-32D" (id 1) (at 140.335 66.04 0))
