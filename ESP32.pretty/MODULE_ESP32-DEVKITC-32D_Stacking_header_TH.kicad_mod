@@ -1,4 +1,4 @@
-(footprint "MODULE_ESP32-DEVKITC-32D" (version 20211014) (generator pcbnew)
+(footprint "MODULE_ESP32-DEVKITC-32D_Stacking_header_TH" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 63CDCC9F)
   (attr through_hole)
@@ -62,7 +62,7 @@
   (pad "36" thru_hole circle (at 12.7 20.88) (size 1.56 1.56) (drill 1.04) (layers *.Cu *.Mask) (tstamp c1142819-d957-42a3-93c7-8773e19a655d))
   (pad "37" thru_hole circle (at 12.7 23.42) (size 1.56 1.56) (drill 1.04) (layers *.Cu *.Mask) (tstamp 168898f8-bc98-4445-9f80-21352a44fabe))
   (pad "38" thru_hole circle (at 12.7 25.96) (size 1.56 1.56) (drill 1.04) (layers *.Cu *.Mask) (tstamp 36707ec3-8a05-4495-a4e6-7d29d2e9f4b8))
-  (model "${KIPRJMOD}/Stacking header_19x1_25.4mm.step"
+  (model "${KIPRJMOD}/Stacking header 2x19_25.4mm.step"
     (offset (xyz -12.7 -25.9 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
