@@ -975,7 +975,7 @@
     (uuid d7debd12-f7b7-4fce-af13-ea37ff0fb5af)
     (property "Reference" "U101" (id 0) (at 140.335 63.5 0))
     (property "Value" "ESP32-DEVKITC-32D" (id 1) (at 140.335 66.04 0))
-    (property "Footprint" "Module:MODULE_ESP32-DEVKITC-32D" (id 2) (at 140.335 94.615 0)
+    (property "Footprint" "ESP32:MODULE_ESP32-DEVKITC-32D" (id 2) (at 140.335 94.615 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 140.335 94.615 0)
@@ -1076,7 +1076,7 @@
       (reference "J102") (unit 1) (value "Conn_01x19") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical")
     )
     (path "/d7debd12-f7b7-4fce-af13-ea37ff0fb5af"
-      (reference "U101") (unit 1) (value "ESP32-DEVKITC-32D") (footprint "Module:MODULE_ESP32-DEVKITC-32D")
+      (reference "U101") (unit 1) (value "ESP32-DEVKITC-32D") (footprint "ESP32:MODULE_ESP32-DEVKITC-32D")
     )
   )
 )
